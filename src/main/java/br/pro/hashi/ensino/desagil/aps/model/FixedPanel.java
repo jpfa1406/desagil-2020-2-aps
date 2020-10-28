@@ -8,7 +8,7 @@ public class FixedPanel extends JPanel {
 
         setLayout(null);
 
-        setPreferredSize(new Dimension(276, 163));
+        setPreferredSize(new Dimension(276, 160));
     }
 
     protected Component add(Component comp, int x, int y) {
